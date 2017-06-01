@@ -1,4 +1,4 @@
 #
 class profile::docker {
-  inculde ::docker
+  include ::docker
 }
